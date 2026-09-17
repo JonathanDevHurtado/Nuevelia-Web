@@ -24,9 +24,10 @@ function refillBucket(key) {
 }
 
 router.post('/chat', async (req, res) => {
-  const apiKey = process.env.OPENAI_API_KEY;
-  const model = process.env.OPENAI_MODEL || 'gpt-3.5-turbo';
-  if (!apiKey) return res.status(500).json({ error: 'OPENAI_API_KEY no configurada en el servidor' });
+  const apiKey = process.env.AI_API_KEY || process.env.OPENAI_API_KEY;
+  const baseUrl = process.env.AI_BASE_URL || 'https://api.openai.com/v1';
+  const model = process.env.AI_MODEL || process.env.OPENAI_MODEL || 'gpt-3.5-turbo';
+  if (!apiKey) return res.status(500).json({ error: 'AI_API_KEY no configurada en el servidor' });
 
   const messages = req.body?.messages;
   if (!messages || !Array.isArray(messages)) return res.status(400).json({ error: 'Se requieren mensajes en formato array' });
@@ -48,7 +49,7 @@ router.post('/chat', async (req, res) => {
 
   concurrent += 1;
   try {
-    const resp = await fetch('https://api.openai.com/v1/chat/completions', {
+    const resp = await fetch(`${baseUrl}/chat/completions`, {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
