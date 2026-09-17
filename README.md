@@ -23,25 +23,6 @@
 
 ---
 
-## Capturas
-
-<table>
-  <tr>
-    <td align="center"><b>Dashboard</b></td>
-    <td align="center"><b>Modo Oscuro</b></td>
-    <td align="center"><b>Asistente IA</b></td>
-  </tr>
-  <tr>
-    <td><img src="public/images/Ana L.jpg" width="250" style="border-radius:12px;"></td>
-    <td><img src="public/images/Carlos R.jpg" width="250" style="border-radius:12px;"></td>
-    <td><img src="public/images/Maria G.jpg" width="250" style="border-radius:12px;"></td>
-  </tr>
-</table>
-
-> *Capturas de usuarios reales de Nuvelia.*
-
----
-
 ## Características
 
 | Módulo | Descripción |
