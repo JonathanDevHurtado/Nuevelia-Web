@@ -36,7 +36,7 @@
 
 | | |
 |:---:|:---:|
-| **Dashboard (Modo Oscuro)** | **Dashboard (Modo Claro)** |
+| **Dashboard (Modo Oscuro)** | **Finanzas (Modo Oscuro)** |
 | <img src="public/images/screenshots/dashboard-dark.png" width="100%"> | <img src="public/images/screenshots/dashboard-light.png" width="100%"> |
 
 <br>
