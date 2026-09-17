@@ -36,15 +36,15 @@
 
 | | |
 |:---:|:---:|
-| **Dashboard (Modo Oscuro)** | **Finanzas (Modo Oscuro)** |
-| <img src="public/images/screenshots/dashboard-dark.png" width="100%"> | <img src="public/images/screenshots/dashboard-light.png" width="100%"> |
+| **Dashboard (Modo Oscuro)** | **Dashboard (Modo Claro)** |
+| <img src="public/images/screenshots/dashboard-dark.png" width="100%"> | <img src="public/images/screenshots/finanzas.png" width="100%"> |
 
 <br>
 
 | | |
 |:---:|:---:|
-| **Tareas** | **Finanzas** |
-| <img src="public/images/screenshots/tareas.png" width="100%"> | <img src="public/images/screenshots/finanzas.png" width="100%"> |
+| **Tareas** | **Finanzas (Modo Oscuro)** |
+| <img src="public/images/screenshots/tareas.png" width="100%"> | <img src="public/images/screenshots/dashboard-light.png" width="100%"> |
 
 <br>
 
