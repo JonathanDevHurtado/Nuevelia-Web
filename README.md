@@ -23,6 +23,54 @@
 
 ---
 
+## Capturas
+
+<div align="center">
+
+| | |
+|:---:|:---:|
+| **Landing Page** | **Autenticación** |
+| <img src="public/images/screenshots/landing.png" width="100%"> | <img src="public/images/screenshots/auth.png" width="100%"> |
+
+<br>
+
+| | |
+|:---:|:---:|
+| **Dashboard (Modo Oscuro)** | **Dashboard (Modo Claro)** |
+| <img src="public/images/screenshots/dashboard-dark.png" width="100%"> | <img src="public/images/screenshots/dashboard-light.png" width="100%"> |
+
+<br>
+
+| | |
+|:---:|:---:|
+| **Tareas** | **Finanzas** |
+| <img src="public/images/screenshots/tareas.png" width="100%"> | <img src="public/images/screenshots/finanzas.png" width="100%"> |
+
+<br>
+
+| | |
+|:---:|:---:|
+| **Hábitos** | **Agenda** |
+| <img src="public/images/screenshots/habitos.png" width="100%"> | <img src="public/images/screenshots/agenda.png" width="100%"> |
+
+<br>
+
+| | |
+|:---:|:---:|
+| **Suscripciones (Claro)** | **Suscripciones (Oscuro)** |
+| <img src="public/images/screenshots/suscripciones-light.png" width="100%"> | <img src="public/images/screenshots/suscripciones-dark.png" width="100%"> |
+
+<br>
+
+| | |
+|:---:|:---:|
+| **Centro de Soporte** | **Navegación** |
+| <img src="public/images/screenshots/soporte.png" width="100%"> | <img src="public/images/screenshots/sidebar.png" width="100%"> |
+
+</div>
+
+---
+
 ## Características
 
 | Módulo | Descripción |
